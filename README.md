@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Make sure before you start this react project respective backend project is running , so that react project can connect with the API
+
 ## Available Scripts
 
 #Download or clone this repository into your local computer
